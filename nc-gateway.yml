@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: nc-gateway-yml
